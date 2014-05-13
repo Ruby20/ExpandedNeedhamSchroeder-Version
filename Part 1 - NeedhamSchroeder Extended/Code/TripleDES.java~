@@ -65,19 +65,5 @@ public class TripleDES {
 		return decryptedText;
 	}
 
-	/*
-	 * public static void main(String args[]) throws Exception { TripleDES td =
-	 * new TripleDES();
-	 * 
-	 * String plaintext = "My name is Nivedita.";
-	 * 
-	 * String encrypted = td.encrypt(plaintext); String decrypted =
-	 * td.decrypt(encrypted);
-	 * 
-	 * System.out.println("String To Encrypt: " + plaintext);
-	 * System.out.println("Encrypted String: " + encrypted);
-	 * System.out.println("Decrypted String: " + decrypted);
-	 * 
-	 * }
-	 */
+	
 }
